@@ -1,6 +1,6 @@
 ##Creating a tidy dataset for Coursera’s Getting and Cleaning Data course
 
-File __run_analysis.R__ includes the function that produces the final clean dataset (cleanData.txt). Original files, where the data was obtained, can be downloaded from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
+File __run_analysis.R__ includes the function that produces the final clean dataset (__cleanData.txt__). Original files, where the data was obtained, can be downloaded from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
 
 __run_analysis.R__ works as intended when placed in the root folder of the downloaded original dataset.
 
@@ -24,7 +24,7 @@ The first column states the volunteer’s number (1 to 30), the second column st
 
 Please find specific information about the variables in the clean data set in the __CodeBook.md__ file in this repository.
 
-_This text has been modified from the original work and README.txt file by:_
+_Original datasets for this assignment:_
 
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
