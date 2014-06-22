@@ -8,7 +8,7 @@ __Column 2__
 Activity
 	One of six activities (Laying, Sitting, Standing, Walking, Walking_downstairs, Walking_upstairs)
 
-Columns 3-88 are mean values of all mean and standard deviation values derived from accelerometer and gyroscope signal measurements. Features and values are normalized and bounded within [-1,1]. The naming convention is as follows:
+Columns 3-88 are the means of all mean and standard deviation values derived from accelerometer and gyroscope signal measurements. Features and values are normalized and bounded within [-1,1]. The naming convention is as follows:
 
 t = time domain signal, f = frequency domain signal, angle = angle between given vectors,
 BodyAcc = body acceleration signal, GravityAcc = gravity acceleration signal,
