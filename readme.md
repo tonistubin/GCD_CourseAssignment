@@ -8,7 +8,7 @@ The original data contains 3-axial measurements taken from Samsung Galaxy S II s
 
 The resulting dataset was divided into two groups, where 21 of the volunteers generated the training data and the remaining 9 the test data. 
 
-The clean dataset was made by combining measurements from both groups. Files __X_test.txt__ and __X_train.txt__ included all the measurement data. __Subject_test.txt__ and __subject_train.txt__ had the numbers of the volunteers separated from the measurement data. Also the numbers for activities were in separate files, Y_test.txt and Y_train.txt.
+The clean dataset was made by combining measurements from both groups. Files __X_test.txt__ and __X_train.txt__ included all the measurement data. __Subject_test.txt__ and __subject_train.txt__ had the numbers of the volunteers separated from the measurement data. Also the numbers for activities were in separate files, __Y_test.txt__ and __Y_train.txt__.
 
 After combining the data from test and train groups, the activity numbers were converted into meaningful names according to information in the __activity_labels.txt__ file.
 
