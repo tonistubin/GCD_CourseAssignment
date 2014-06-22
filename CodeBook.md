@@ -2,17 +2,17 @@
 
 __Column 1__  
 Subject  
-	The volunteer’s number (from 1 to 30) 
+	_The volunteer’s number (from 1 to 30)_  
 
-__Column 2_  
+__Column 2__  
 Activity  
-	One of six activities (Laying, Sitting, Standing, Walking, Walking_downstairs, Walking_upstairs)
+	_One of six activities (Laying, Sitting, Standing, Walking, Walking_downstairs, Walking_upstairs)_
 
 Columns 3-88 are the means of all mean and standard deviation values derived from accelerometer and gyroscope signal measurements. Features and values are normalized and bounded within [-1,1]. The naming convention is as follows:
 
-t = time domain signal, f = frequency domain signal, angle = angle between given vectors,
-BodyAcc = body acceleration signal, GravityAcc = gravity acceleration signal,
-Gyro = signal from the gyroscope, Jerk = jerk signal, Mag = signal magnitude, mean = mean value, std = standard deviation, X / Y / Z = directions, meanFreq = weighted average of the frequency components to obtain a mean frequency
+__t__ = time domain signal, __f__ = frequency domain signal, __angle__ = angle between given vectors,
+__BodyAcc__ = body acceleration signal, __GravityAcc__ = gravity acceleration signal,
+__Gyro__ = signal from the gyroscope, __Jerk__ = jerk signal, __Mag__ = signal magnitude, __mean__ = mean value, __std__ = standard deviation, __X__ / __Y__ / __Z__ = directions, __meanFreq__ = weighted average of the frequency components to obtain a mean frequency
 
 __Columns 3-88__  
 tBodyAcc-mean-X  
