@@ -1,6 +1,6 @@
 ##Creating a tidy dataset for Coursera’s Getting and Cleaning Data course
 
-File __run_analysis.R__ includes the function that produces the final clean dataset (__cleanData.txt__). Original files, where the data was obtained, can be downloaded from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
+File __run_analysis.R__ includes the function that produces the final clean dataset (__cleanData.txt__). Original files where the data was obtained can be downloaded from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
 
 __run_analysis.R__ works as intended when placed in the root folder of the downloaded original dataset.
 
